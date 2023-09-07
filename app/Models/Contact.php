@@ -5,8 +5,6 @@ namespace App\Model;
 use mysqli;
 
 
-
-
 class Contact
 {
     protected $db_host = DB_HOST;
